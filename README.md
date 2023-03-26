@@ -121,6 +121,13 @@ Model five polynomial regression plot
 * Maximize the size and number of bedrooms and bathrooms - The number of bedrooms and bathrooms have relatively strong correlations with the sale price of houses in King County. Homeowners and property developers may want to consider adding additional bedrooms or bathrooms to maximize the value of the home. This could include converting existing space, such as a den or loft, into a bedroom or bathroom, or adding an extension to the house to create more living space.
 * Keep the house well-maintained - Although the condition of the house has a relatively weak correlation with the sale price, it is still important to keep the home well-maintained to maximize its value.
 
+What next?
+
+* Develop an action plan - Once the recommendations have been identified, the next step is to develop a detailed action plan that outlines specific steps to be taken to implement each recommendation.
+* Prioritize recommendations - Depending on the available resources and time frame, it may be necessary to prioritize the recommendations in terms of their potential impact and feasibility.
+* Monitor and adjust the plan - Once the action plan has been developed and implemented, it is important to monitor the results and make adjustments as needed.
+* Evaluate the effectiveness of the recommendations - After the property has been sold, it is important to evaluate the effectiveness of the recommendations and assess whether they had the intended impact on the sale price of the property.
+
 
 
 

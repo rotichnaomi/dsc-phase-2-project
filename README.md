@@ -71,15 +71,26 @@ Q-Q plot to test for linearity assumption
 
 Correlation between price and the predictor variables
 
-price	     1.000
-Sqft_lot	 0.137762
-bedrooms	 0.353289
+price    	 1.000000
+
 Grade	     0.704877
-Bathrooms  0.552219
-Floors	   0.313838
-Waterfront 0.180529
-condition	 0.039044
+
+bathrooms	 0.552219
+
+bedrooms	 0.353289
+
+floors	   0.313838
+
+waterfront 0.180529
+
+sqft_lot   0.137762
+
 yr_built   0.081958
+
+condition	 0.039044
+
+
+* Correlation between price and the predictor variables Grade and bathrooms are the most related to the dependent variable "price“ due to their high correlation value
 
 
 Model four : multiple regression
